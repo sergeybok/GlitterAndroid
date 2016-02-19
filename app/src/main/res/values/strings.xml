@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Glitter Android</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="add_text">Add Text</string>
+    <string name="text_hint">Enter your text</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="bake">Bake</string>
+    <string name="collection">Card Collection</string>
+    <string name="user_info">User Info</string>
+    <string name="stickers">Stickers</string>
+    <string name="gifs">Gifs</string>
+    <string name="gif_search_hint">Search for GIFs here</string>
+    <string name="giphy_powered">Powered by Giphy!</string>
+    <string name="card_deleted">Card Deleted!</string>
+
+    
+    <string name="phone_number">&#xf10b;</string>
+    <string name="instagram">&#xf16d;</string>
+    <string name="url">&#xf0c1;</string>
+    <string name="email">&#xf1d9;</string>
+    <string name="facebook">&#xf09a;</string>
+    <string name="twitter">&#xf099;</string>
+    <string name="location">&#xf015;</string>
+    <string name="snapchat">&#xf03e;</string>
+
+    <color name="indigo">#ff2e0854</color>
+
+    <color name="BLACK">#ff000000</color>
+    <color name="WHITE">#ffffffff</color>
+    <color name="RED">#ffff0000</color>
+    <color name="PINK">#ffffc0cb</color>
+    <color name="BLUE">#ff0000ff</color>
+    <color name="TORQUOISE">#ff008080</color>
+    <color name="SALMON">#ffff7373</color>
+    <color name="YELLOW">#ffffd700</color>
+    <color name="GRAY">#ffc0c0c0</color>
+    <color name="VIOLET">#ff660066</color>
+    <color name="CYAN">#ff40e0d0</color>
+    <color name="GREEN">#ff00ff00</color>
+
+</resources>
